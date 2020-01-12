@@ -5,7 +5,7 @@ These codes are clear and simple for those who want to see a standard linear reg
 </br>
 of cource a small project :)
 # Getting Started
-Just download it and run it !remember you need to install data analysis packages like numpy , pandas , seaborn , skylearn and matplotbil  to run this codes.
+Just download it and run it !remember you need to install data analysis packages like numpy , pandas , seaborn , skylearn and matplotlib  to run this codes.
 # Install Packages
 To install packages you need to run below commands in your pyCharm terminal :
 </br>
