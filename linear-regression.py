@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 
-df = pd.read_csv('datasets/house.csv')
+df = pd.read_csv('house.csv')
 
 
 #[x]spreate data to x(feature) and y(target) array
